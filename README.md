@@ -1,4 +1,5 @@
 # coronavirus-tracker
+Practice app following cource in Youtube
 Spring boot app using Thymeleaf as UI template
    Sprig Boot 2.2.5.RELEASE
    JDK - 13
